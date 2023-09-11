@@ -1,0 +1,30 @@
+[
+  {
+    "name": "G.I. Jane",
+    "email": "jane@gmail.com",
+    "phone": "707-144-1414",
+    "birthdate": "04/01/2020",
+    "id": 1
+  },
+  {
+    "name": "Data Person",
+    "email": "data@person.com",
+    "phone": "707-243-4567",
+    "birthdate": "07/17/2002",
+    "id": 2
+  },
+  {
+    "name": "George Curious",
+    "email": "george@curious.com",
+    "phone": "818-657-2023",
+    "birthdate": "12/01/2010",
+    "id": 3
+  },
+  {
+    "name": "Adam the Original",
+    "email": "adam@original.com",
+    "phone": "510-838-1996",
+    "birthdate": "9/12/2005",
+    "id": 4
+  }
+]
