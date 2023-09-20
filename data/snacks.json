@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "owner": 4,
+    "snack": "cookies"
+  },
+  {
+    "id": 2,
+    "owner": 4,
+    "snack": "chips"
+  },
+  {
+    "id": 3,
+    "owner": 4,
+    "snack": "fruit"
+  },
+  {
+    "id": 4,
+    "owner": 4,
+    "snack": "carrots"
+  },
+  {
+    "id": 5,
+    "owner": 4,
+    "snack": "air-heads"
+  },
+]
